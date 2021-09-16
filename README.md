@@ -1,7 +1,5 @@
-### Hi there 👋
-
-
-## Oiii! Eu sou Maurício Santos. 
+### Oiii! Eu sou Maurício Júnior. 
+##
 
  <div>
   <a href="https://github.com/mauriciogen3">
