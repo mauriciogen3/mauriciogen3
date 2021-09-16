@@ -1,4 +1,6 @@
-### Oiii! Eu sou Maurício Júnior. Iniciei este ano em Programação. Procurando uma oportunidade no mercado, atualmente estou focado em Desenvolvimento Back, Front- End.
+### Oiii! Eu sou Maurício Júnior. Iniciei este ano em Programação. 
+
+Atualmente estou focado em Desenvolvimento Back, Front- End.
 ##
 
  <div>
